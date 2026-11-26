@@ -187,15 +187,13 @@
     node.dataset.motion = state;
   }
 
+  // English unless the address asks for another language (?lang=zh) or the reader chose one here
+  // before. The browser's own language is not used (11-27: the maintainer wants English first).
   function pickLang() {
     const fromUrl = new URLSearchParams(location.search).get('lang');
     if (LANGS.includes(fromUrl)) return fromUrl;
     const saved = store.get('scenewords.lang');
     if (LANGS.includes(saved)) return saved;
-    for (const l of navigator.languages || []) {
-      const base = l.toLowerCase().split('-')[0];
-      if (LANGS.includes(base)) return base;
-    }
     return 'en';
   }
 

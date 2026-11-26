@@ -9089,8 +9089,8 @@
   },
   {
    "path": "viewer/app.js",
-   "bytes": 30088,
-   "sha256": "88a9688eac48acec2e5708667824b48d8bb9cef751714e62b6e5c4a337a3407d"
+   "bytes": 30133,
+   "sha256": "9f179758974799159113a5cd1517be5eced4a263003537748b458792e6a34862"
   },
   {
    "path": "viewer/data.js",
