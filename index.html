@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scenewords: 600 English words, one picture each</title>
+<meta name="description" content="An open picture dictionary of 600 English words for work and everyday life. Each word has its own illustration, one sentence that describes it, US pronunciation, and definitions in English, Chinese, Korean, Japanese and Vietnamese.">
+<meta name="color-scheme" content="light dark">
+<script>
+// light or dark as the reader last chose with the button; without a choice the page follows the system
+try {
+  const theme = localStorage.getItem('scenewords.theme');
+  if (theme === 'light' || theme === 'dark') {
+    document.documentElement.dataset.theme = theme;
+    document.querySelector('meta[name="color-scheme"]').content = theme;
+  }
+} catch (e) { /* storage blocked: follow the system */ }
+</script>
+<link rel="canonical" href="https://scenewords.dictationtrainer.com/">
+<link rel="icon" href="viewer/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="viewer/style.css">
+<script src="viewer/data.js" defer></script>
+<script src="viewer/app.js" defer></script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-top">
+    <p class="wordmark"><img src="viewer/icon.svg" alt="" width="28" height="28">Scenewords</p>
+    <div class="tools">
+      <nav class="langs" aria-label="Language"></nav>
+      <button id="theme" class="theme" type="button" aria-label="Switch to dark mode" title="Switch to dark mode"><svg class="to-dark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="to-light" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg></button>
+    </div>
+  </div>
+  <h1 class="lede" data-i18n="lede">600 English words for work and everyday life. Each one has its own picture and one sentence that describes it.</h1>
+  <p class="source" data-i18n="source">Words from the TOEIC® Service List 1.2. Made by Dictation Trainer.</p>
+  <p class="actions">
+    <a class="cta" id="cta" href="https://dictationtrainer.com/series/picture-words-600" data-i18n="cta">Practice dictation on dictationtrainer.com</a>
+    <a class="quiet" id="repo" hidden data-i18n="data">Download the data</a>
+  </p>
+</header>
+
+<div class="toolbar" role="search">
+  <label class="search">
+    <span class="visually-hidden" data-i18n="search">Search 600 words</span>
+    <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search 600 words">
+  </label>
+  <nav class="topics" id="topics" aria-label="Topics"></nav>
+</div>
+
+<main id="wall" aria-live="polite">
+  <noscript><p class="empty">The word list needs JavaScript. The same data is in <a href="data/words.csv">data/words.csv</a> and <a href="data/words.json">data/words.json</a>.</p></noscript>
+</main>
+
+<dialog id="card" aria-label="Word card">
+  <div class="deck">
+    <p class="deck-top">
+      <button id="card-close" type="button" class="round" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    </p>
+    <!-- one card, two faces, as on the Anki cards: the front asks with the picture, the back answers -->
+    <div class="card" id="card-turner">
+      <section class="face front" id="card-front">
+        <figure class="card-picture" id="card-picture"></figure>
+        <button id="card-play" class="listen" type="button"><span class="wave" aria-hidden="true"></span><span class="wave" aria-hidden="true"></span><span class="wave" aria-hidden="true"></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg><span data-i18n="play">Hear the word</span></button>
+        <p class="prompt" data-i18n="prompt">Which word does this picture show?</p>
+      </section>
+      <section class="face back" id="card-back" inert>
+        <div class="head">
+          <span id="card-thumb" class="thumb"></span>
+          <div class="head-text">
+            <h2 id="card-word" class="word" tabindex="-1"></h2>
+            <p class="say"><abbr id="card-pos" class="pos"></abbr> <span id="card-ipa" class="ipa"></span></p>
+          </div>
+        </div>
+        <p id="card-gloss" class="gloss"></p>
+        <p id="card-def" class="def" lang="en"></p>
+        <blockquote id="card-sentence" class="sentence" lang="en"></blockquote>
+        <span class="spacer"></span>
+        <a id="card-dictate" class="dictate"><span data-i18n="dictate">Dictate this sentence on dictationtrainer.com</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </section>
+    </div>
+    <p class="deck-nav">
+      <button id="card-prev" type="button" class="round" aria-label="Previous word"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+      <button id="card-turn" type="button" class="turn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.5 6.2L3 16"/><path d="M3 21v-5h5"/></svg><span id="card-turn-label">Show the word</span></button>
+      <button id="card-next" type="button" class="round" aria-label="Next word"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    </p>
+    <p id="card-said" class="visually-hidden" aria-live="polite"></p>
+  </div>
+</dialog>
+<audio id="voice" preload="none"></audio>
+
+<footer class="colophon">
+  <p data-i18n="license">Pictures, word data, sentences and audio: CC BY-SA 4.0, to the extent we hold rights in them (the pictures and audio are AI-generated). Code: MIT.</p>
+  <p data-i18n="credits">Word list: TOEIC® Service List 1.2 by Charles Browne and Brent Culligan, CC BY-SA 4.0. US pronunciations from the CMU Pronouncing Dictionary.</p>
+  <p data-i18n="ets">TOEIC is a registered trademark of ETS. This project is not endorsed or approved by ETS.</p>
+</footer>
+</body>
+</html>

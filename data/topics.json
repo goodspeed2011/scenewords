@@ -1,0 +1,134 @@
+[
+  {
+    "id": "office",
+    "name": {
+      "en": "Office and technology",
+      "zh": "办公室与科技",
+      "ko": "사무실과 IT",
+      "ja": "オフィスとIT",
+      "vi": "Văn phòng và công nghệ"
+    },
+    "count": 60,
+    "cover": "laptop_noun_01"
+  },
+  {
+    "id": "people-money",
+    "name": {
+      "en": "People, training and money",
+      "zh": "人事、培训与财务",
+      "ko": "인사·교육·재무",
+      "ja": "人事・研修・お金",
+      "vi": "Nhân sự, đào tạo và tài chính"
+    },
+    "count": 45,
+    "cover": "mentor_noun_01"
+  },
+  {
+    "id": "meetings",
+    "name": {
+      "en": "Meetings and events",
+      "zh": "会议与活动",
+      "ko": "회의와 행사",
+      "ja": "会議とイベント",
+      "vi": "Cuộc họp và sự kiện"
+    },
+    "count": 30,
+    "cover": "seminar_noun_01"
+  },
+  {
+    "id": "travel",
+    "name": {
+      "en": "Travel, transport and hotels",
+      "zh": "出行、交通与酒店",
+      "ko": "여행·교통·호텔",
+      "ja": "旅行・交通・ホテル",
+      "vi": "Du lịch, giao thông và khách sạn"
+    },
+    "count": 90,
+    "cover": "luggage_noun_01"
+  },
+  {
+    "id": "shopping",
+    "name": {
+      "en": "Shopping and customer service",
+      "zh": "购物与客服",
+      "ko": "쇼핑과 고객 서비스",
+      "ja": "買い物と接客",
+      "vi": "Mua sắm và chăm sóc khách hàng"
+    },
+    "count": 60,
+    "cover": "receipt_noun_01"
+  },
+  {
+    "id": "dining",
+    "name": {
+      "en": "Food and dining",
+      "zh": "餐饮",
+      "ko": "식사와 외식",
+      "ja": "食事と外食",
+      "vi": "Ăn uống"
+    },
+    "count": 75,
+    "cover": "chef_noun_01"
+  },
+  {
+    "id": "shipping",
+    "name": {
+      "en": "Factories and shipping",
+      "zh": "制造与物流",
+      "ko": "제조와 물류",
+      "ja": "工場と物流",
+      "vi": "Nhà máy và vận chuyển"
+    },
+    "count": 30,
+    "cover": "warehouse_noun_01"
+  },
+  {
+    "id": "buildings",
+    "name": {
+      "en": "Buildings, repairs and construction",
+      "zh": "设施、维修与施工",
+      "ko": "시설·수리·공사",
+      "ja": "建物・修理・工事",
+      "vi": "Tòa nhà, sửa chữa và xây dựng"
+    },
+    "count": 45,
+    "cover": "ladder_noun_01"
+  },
+  {
+    "id": "home",
+    "name": {
+      "en": "Home and daily life",
+      "zh": "住房与日常",
+      "ko": "주거와 일상",
+      "ja": "住まいと日常",
+      "vi": "Nhà ở và đời sống hằng ngày"
+    },
+    "count": 75,
+    "cover": "pet_noun_01"
+  },
+  {
+    "id": "health",
+    "name": {
+      "en": "Health and medical care",
+      "zh": "健康与医疗",
+      "ko": "건강과 의료",
+      "ja": "健康と医療",
+      "vi": "Sức khỏe và y tế"
+    },
+    "count": 30,
+    "cover": "pharmacy_noun_01"
+  },
+  {
+    "id": "leisure",
+    "name": {
+      "en": "Leisure, sports and culture",
+      "zh": "休闲、运动与文化",
+      "ko": "여가·스포츠·문화",
+      "ja": "余暇・スポーツ・文化",
+      "vi": "Giải trí, thể thao và văn hóa"
+    },
+    "count": 60,
+    "cover": "dive_verb_01"
+  }
+]
