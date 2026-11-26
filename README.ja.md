@@ -23,7 +23,7 @@
 
 **600** 語 · イラスト **600** 枚 · 例文 **600** 文 · 全単語の米国式発音音声 · 意味（中文 · 한국어 · 日本語 · Tiếng Việt） · CC BY-SA 4.0
 
-**[dictationtrainer.com で書き取り練習 →](https://dictationtrainer.com/ja/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)** · [絵の一覧](https://scenewords.dictationtrainer.com/) · [ダウンロード](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki デッキ](https://github.com/goodspeed2011/scenewords/releases/latest)
+[絵の一覧](https://scenewords.dictationtrainer.com/) · [ダウンロード](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki デッキ](https://github.com/goodspeed2011/scenewords/releases/latest) → **[dictationtrainer.com で書き取り練習](https://dictationtrainer.com/ja/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## サンプル
 

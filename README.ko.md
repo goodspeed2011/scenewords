@@ -23,7 +23,7 @@
 
 단어 **600**개 · 그림 **600**장 · 예문 **600**개 · 모든 단어의 미국식 발음 · 뜻풀이: 中文 · 한국어 · 日本語 · Tiếng Việt · CC BY-SA 4.0
 
-**[dictationtrainer.com에서 받아쓰기 연습하기 →](https://dictationtrainer.com/ko/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)** · [그림 둘러보기](https://scenewords.dictationtrainer.com/) · [내려받기](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 덱](https://github.com/goodspeed2011/scenewords/releases/latest)
+[그림 둘러보기](https://scenewords.dictationtrainer.com/) · [내려받기](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 덱](https://github.com/goodspeed2011/scenewords/releases/latest) → **[dictationtrainer.com에서 받아쓰기 연습하기](https://dictationtrainer.com/ko/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## 예시
 

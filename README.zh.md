@@ -23,7 +23,7 @@ Dictation Trainer 制作 · 词表选自 TOEIC® Service List 1.2
 
 **600** 个词 · **600** 幅插画 · **600** 个例句 · 每个词都有美音发音 · 中文、한국어、日本語、Tiếng Việt 释义 · CC BY-SA 4.0
 
-**[去 dictationtrainer.com 练听写 →](https://dictationtrainer.com/zh/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)** · [浏览插画](https://scenewords.dictationtrainer.com/) · [下载](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 牌组](https://github.com/goodspeed2011/scenewords/releases/latest)
+[浏览插画](https://scenewords.dictationtrainer.com/) · [下载](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 牌组](https://github.com/goodspeed2011/scenewords/releases/latest) → **[去 dictationtrainer.com 练听写](https://dictationtrainer.com/zh/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## 示例
 

@@ -23,7 +23,7 @@ Danh sách từ: TOEIC® Service List 1.2. Do Dictation Trainer thực hiện.
 
 **600** từ · **600** tranh minh họa · **600** câu ví dụ · phát âm giọng Mỹ cho từng từ · nghĩa bằng 中文 · 한국어 · 日本語 · Tiếng Việt · CC BY-SA 4.0
 
-**[Luyện nghe chép chính tả trên dictationtrainer.com →](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)** · [Xem tranh](https://scenewords.dictationtrainer.com/) · [Tải xuống](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Bộ thẻ Anki](https://github.com/goodspeed2011/scenewords/releases/latest)
+[Xem tranh](https://scenewords.dictationtrainer.com/) · [Tải xuống](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Bộ thẻ Anki](https://github.com/goodspeed2011/scenewords/releases/latest) → **[Luyện nghe chép chính tả trên dictationtrainer.com](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## Một vài mục từ mẫu
 

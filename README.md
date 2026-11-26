@@ -23,7 +23,7 @@ by Dictation Trainer · built on the TOEIC® Service List 1.2
 
 **600** words · **600** illustrations · **600** example sentences · US audio for every word · definitions in 中文 · 한국어 · 日本語 · Tiếng Việt · CC BY-SA 4.0
 
-**[Practice dictation on dictationtrainer.com →](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)** · [Browse the pictures](https://scenewords.dictationtrainer.com/) · [Download](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki decks](https://github.com/goodspeed2011/scenewords/releases/latest)
+[Browse the pictures](https://scenewords.dictationtrainer.com/) · [Download](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki decks](https://github.com/goodspeed2011/scenewords/releases/latest) → **[Practice dictation on dictationtrainer.com](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## A sample
 
