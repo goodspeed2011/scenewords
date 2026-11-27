@@ -27,11 +27,11 @@ by Dictation Trainer · built on the TOEIC® Service List 1.2
 
 ## A sample
 
-| Picture | Word | Sentence | Practice |
+| Picture | Word | Sentence | Word card |
 | --- | --- | --- | --- |
-| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>截止日期；最后期限 · 마감 기한, 마감일 · 締め切り · hạn chót | The designer is working late to meet the **deadline**. | [Listen and dictate](https://dictationtrainer.com/sets/picture-office-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-6) |
-| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>行李 · (여행) 짐, 수하물 · 荷物、手荷物 · hành lý | A woman is pulling her **luggage** past a row of empty seats. | [Listen and dictate](https://dictationtrainer.com/sets/picture-travel-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-8) |
-| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>防晒霜 · 자외선 차단제, 선크림 · 日焼け止め · kem chống nắng | She is putting on **sunscreen**. | [Listen and dictate](https://dictationtrainer.com/sets/picture-leisure-4?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-14) |
+| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>截止日期；最后期限 · 마감 기한, 마감일 · 締め切り · hạn chót | The designer is working late to meet the **deadline**. | [Open](https://scenewords.dictationtrainer.com/#deadline_noun_01) |
+| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>行李 · (여행) 짐, 수하물 · 荷物、手荷物 · hành lý | A woman is pulling her **luggage** past a row of empty seats. | [Open](https://scenewords.dictationtrainer.com/#luggage_noun_01) |
+| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>防晒霜 · 자외선 차단제, 선크림 · 日焼け止め · kem chống nắng | She is putting on **sunscreen**. | [Open](https://scenewords.dictationtrainer.com/#sunscreen_noun_01) |
 
 All 600 are in [the picture browser](https://scenewords.dictationtrainer.com/).
 

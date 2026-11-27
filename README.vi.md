@@ -1,18 +1,18 @@
 [English](README.md) · [中文](README.zh.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · **Tiếng Việt**
 
 <p>
-<a href="https://scenewords.dictationtrainer.com/#dive_verb_01"><img src="media/thumb/dive_verb_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#bakery_noun_01"><img src="media/thumb/bakery_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#colorful_adj_01"><img src="media/thumb/colorful_adj_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#warehouse_noun_01"><img src="media/thumb/warehouse_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#whale_noun_01"><img src="media/thumb/whale_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#chef_noun_01"><img src="media/thumb/chef_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#luggage_noun_01"><img src="media/thumb/luggage_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#elephant_noun_01"><img src="media/thumb/elephant_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#supervisor_noun_01"><img src="media/thumb/supervisor_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#pottery_noun_01"><img src="media/thumb/pottery_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#ice_cream_noun_01"><img src="media/thumb/ice_cream_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#violin_noun_01"><img src="media/thumb/violin_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#dive_verb_01"><img src="media/thumb/dive_verb_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#bakery_noun_01"><img src="media/thumb/bakery_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#colorful_adj_01"><img src="media/thumb/colorful_adj_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#warehouse_noun_01"><img src="media/thumb/warehouse_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#whale_noun_01"><img src="media/thumb/whale_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#chef_noun_01"><img src="media/thumb/chef_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#luggage_noun_01"><img src="media/thumb/luggage_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#elephant_noun_01"><img src="media/thumb/elephant_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#supervisor_noun_01"><img src="media/thumb/supervisor_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#pottery_noun_01"><img src="media/thumb/pottery_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#ice_cream_noun_01"><img src="media/thumb/ice_cream_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=vi#violin_noun_01"><img src="media/thumb/violin_noun_01.webp" width="128" alt=""></a>
 </p>
 
 # Scenewords
@@ -23,17 +23,17 @@ Danh sách từ: TOEIC® Service List 1.2. Do Dictation Trainer thực hiện.
 
 **600** từ · **600** tranh minh họa · **600** câu ví dụ · phát âm giọng Mỹ cho từng từ · nghĩa bằng 中文 · 한국어 · 日本語 · Tiếng Việt · CC BY-SA 4.0
 
-[Xem tranh](https://scenewords.dictationtrainer.com/) · [Tải xuống](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Bộ thẻ Anki](https://github.com/goodspeed2011/scenewords/releases/latest) → **[Luyện nghe chép chính tả trên dictationtrainer.com](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
+[Xem tranh](https://scenewords.dictationtrainer.com/?lang=vi) · [Tải xuống](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Bộ thẻ Anki](https://github.com/goodspeed2011/scenewords/releases/latest) → **[Luyện nghe chép chính tả trên dictationtrainer.com](https://dictationtrainer.com/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## Một vài mục từ mẫu
 
-| Tranh | Từ | Câu ví dụ | Luyện tập |
+| Tranh | Từ | Câu ví dụ | Thẻ từ |
 | --- | --- | --- | --- |
-| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>hạn chót | The designer is working late to meet the **deadline**. | [Nghe và chép](https://dictationtrainer.com/sets/picture-office-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-6) |
-| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>hành lý | A woman is pulling her **luggage** past a row of empty seats. | [Nghe và chép](https://dictationtrainer.com/sets/picture-travel-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-8) |
-| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>kem chống nắng | She is putting on **sunscreen**. | [Nghe và chép](https://dictationtrainer.com/sets/picture-leisure-4?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-14) |
+| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>hạn chót | The designer is working late to meet the **deadline**. | [Mở](https://scenewords.dictationtrainer.com/?lang=vi#deadline_noun_01) |
+| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>hành lý | A woman is pulling her **luggage** past a row of empty seats. | [Mở](https://scenewords.dictationtrainer.com/?lang=vi#luggage_noun_01) |
+| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>kem chống nắng | She is putting on **sunscreen**. | [Mở](https://scenewords.dictationtrainer.com/?lang=vi#sunscreen_noun_01) |
 
-Toàn bộ 600 từ đều có trong [trang xem tranh](https://scenewords.dictationtrainer.com/).
+Toàn bộ 600 từ đều có trong [trang xem tranh](https://scenewords.dictationtrainer.com/?lang=vi).
 
 ## Ở đây có gì, trên trang web có gì
 

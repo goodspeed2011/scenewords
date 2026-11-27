@@ -24,28 +24,28 @@
   },
   {
    "path": "README.ja.md",
-   "bytes": 8797,
-   "sha256": "a6f6152be93cedf835007cb216714b0dfe4ad6151a7cba0c5cd2736a7c383fbb"
+   "bytes": 8679,
+   "sha256": "d872470db45faefb4c3d1897bafe53272e03cafbe8799a1497ccabf44529b63e"
   },
   {
    "path": "README.ko.md",
-   "bytes": 8471,
-   "sha256": "e58250f5555d84f25d245448b52077b1ef371c0717f3a96950941b9fae225be5"
+   "bytes": 8357,
+   "sha256": "e684c4ed62bd1ce08b11c924b6154c48c1da26391af7476823ec54083acaa523"
   },
   {
    "path": "README.md",
-   "bytes": 7946,
-   "sha256": "96a5dda8f20a095250829310c7602583779cf3ee9f7fc13b9e328de61b50b678"
+   "bytes": 7696,
+   "sha256": "b439f45a2e719c81b68d5d3a8dcf39286e9d9528bb0fc43933f4926f78d6e067"
   },
   {
    "path": "README.vi.md",
-   "bytes": 8735,
-   "sha256": "0e2b4c0ab98c9508fa887f4befd690b04bf2c0cf23f738b8938b3d900dee76a2"
+   "bytes": 8629,
+   "sha256": "15fb3eca865d406ea4d514574f7ba5b130d24ed4574ce86d6c42b78a911efe81"
   },
   {
    "path": "README.zh.md",
-   "bytes": 7444,
-   "sha256": "688ee147d65fcfbddc8eeacdfd049cde6e0797cd3189df6b38cb9a64c5495206"
+   "bytes": 7329,
+   "sha256": "72ba41aa9dab9bd4109517c67a4770bb7728b39caa0715fb5c51b8ac24112b1d"
   },
   {
    "path": "data/topics.json",

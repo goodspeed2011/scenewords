@@ -1,18 +1,18 @@
 [English](README.md) · **中文** · [한국어](README.ko.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md)
 
 <p>
-<a href="https://scenewords.dictationtrainer.com/#dive_verb_01"><img src="media/thumb/dive_verb_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#bakery_noun_01"><img src="media/thumb/bakery_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#colorful_adj_01"><img src="media/thumb/colorful_adj_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#warehouse_noun_01"><img src="media/thumb/warehouse_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#whale_noun_01"><img src="media/thumb/whale_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#chef_noun_01"><img src="media/thumb/chef_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#luggage_noun_01"><img src="media/thumb/luggage_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#elephant_noun_01"><img src="media/thumb/elephant_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#supervisor_noun_01"><img src="media/thumb/supervisor_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#pottery_noun_01"><img src="media/thumb/pottery_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#ice_cream_noun_01"><img src="media/thumb/ice_cream_noun_01.webp" width="128" alt=""></a>
-<a href="https://scenewords.dictationtrainer.com/#violin_noun_01"><img src="media/thumb/violin_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#dive_verb_01"><img src="media/thumb/dive_verb_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#bakery_noun_01"><img src="media/thumb/bakery_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#colorful_adj_01"><img src="media/thumb/colorful_adj_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#warehouse_noun_01"><img src="media/thumb/warehouse_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#whale_noun_01"><img src="media/thumb/whale_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#chef_noun_01"><img src="media/thumb/chef_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#luggage_noun_01"><img src="media/thumb/luggage_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#elephant_noun_01"><img src="media/thumb/elephant_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#supervisor_noun_01"><img src="media/thumb/supervisor_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#pottery_noun_01"><img src="media/thumb/pottery_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#ice_cream_noun_01"><img src="media/thumb/ice_cream_noun_01.webp" width="128" alt=""></a>
+<a href="https://scenewords.dictationtrainer.com/?lang=zh#violin_noun_01"><img src="media/thumb/violin_noun_01.webp" width="128" alt=""></a>
 </p>
 
 # Scenewords
@@ -23,17 +23,17 @@ Dictation Trainer 制作 · 词表选自 TOEIC® Service List 1.2
 
 **600** 个词 · **600** 幅插画 · **600** 个例句 · 每个词都有美音发音 · 中文、한국어、日本語、Tiếng Việt 释义 · CC BY-SA 4.0
 
-[浏览插画](https://scenewords.dictationtrainer.com/) · [下载](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 牌组](https://github.com/goodspeed2011/scenewords/releases/latest) → **[去 dictationtrainer.com 练听写](https://dictationtrainer.com/zh/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
+[浏览插画](https://scenewords.dictationtrainer.com/?lang=zh) · [下载](https://github.com/goodspeed2011/scenewords/archive/refs/heads/main.zip) · [Hugging Face](https://huggingface.co/datasets/goodspeed2011/scenewords) · [Anki 牌组](https://github.com/goodspeed2011/scenewords/releases/latest) → **[去 dictationtrainer.com 练听写](https://dictationtrainer.com/zh/series/picture-words-600?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source)**
 
 ## 示例
 
-| 插画 | 单词 | 例句 | 练习 |
+| 插画 | 单词 | 例句 | 单词卡 |
 | --- | --- | --- | --- |
-| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>截止日期；最后期限 | The designer is working late to meet the **deadline**. | [去听写这一句](https://dictationtrainer.com/zh/sets/picture-office-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-6) |
-| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>行李 | A woman is pulling her **luggage** past a row of empty seats. | [去听写这一句](https://dictationtrainer.com/zh/sets/picture-travel-1?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-8) |
-| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>防晒霜 | She is putting on **sunscreen**. | [去听写这一句](https://dictationtrainer.com/zh/sets/picture-leisure-4?utm_source=scenewords&utm_medium=readme&utm_campaign=open-source#sentence-14) |
+| <img src="media/thumb/deadline_noun_01.webp" width="72" alt="The designer is working late to meet the deadline."> | **deadline** n.<br>/ˈdɛdˌlaɪn/<br>截止日期；最后期限 | The designer is working late to meet the **deadline**. | [打开](https://scenewords.dictationtrainer.com/?lang=zh#deadline_noun_01) |
+| <img src="media/thumb/luggage_noun_01.webp" width="72" alt="A woman is pulling her luggage past a row of empty seats."> | **luggage** n.<br>/ˈlʌɡədʒ/<br>行李 | A woman is pulling her **luggage** past a row of empty seats. | [打开](https://scenewords.dictationtrainer.com/?lang=zh#luggage_noun_01) |
+| <img src="media/thumb/sunscreen_noun_01.webp" width="72" alt="She is putting on sunscreen."> | **sunscreen** n.<br>/ˈsʌnˌskrin/<br>防晒霜 | She is putting on **sunscreen**. | [打开](https://scenewords.dictationtrainer.com/?lang=zh#sunscreen_noun_01) |
 
-全部 600 个词都在[插画浏览页](https://scenewords.dictationtrainer.com/)里。
+全部 600 个词都在[插画浏览页](https://scenewords.dictationtrainer.com/?lang=zh)里。
 
 ## 仓库里有什么，网站上有什么
 
